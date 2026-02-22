@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Datir Kunal</h1>
+<h1 align="center">Hi 👋, I'm Kunal Datir </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Datir+Kunal;Java+Developer;Web+Development+Enthusiast;AI-ML+Learner;DSA+Focused;Future+Software+Engineer" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 👋 Hi, I’m @Datirkunal 
-👀 I’m interested in **Coding | Web Development | AI-ML**  
+👀 I’m interested in **Coding | Web Development | DSA**  
 🌱 I’m currently pursuing **Computer Engineering** with a strong focus on coding.  
 💞️ I’m looking to collaborate on innovative projects combining **Web Development + AI/ML** to create real-world impact.  
 📫 How to reach me:  
