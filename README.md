@@ -12,7 +12,7 @@
 👋 Hi, I’m @Datirkunal 
 👀 I’m interested in **Coding | Web Development | DSA**  
 🌱 I’m currently pursuing **Computer Engineering** with a strong focus on coding.  
-💞️ I’m looking to collaborate on innovative projects combining **Web Development + AI/ML** to create real-world impact.  
+💞️ I’m looking to collaborate on innovative projects on **Web Development ** to create real-world impact.  
 📫 How to reach me:  
 ✉️ Email: datirkunal5@gmail.com  
 ⚡ Fun fact: Besides coding, I enjoy Gaming 🎮 and exploring new tech trends!
